@@ -13,12 +13,16 @@ User uses STAROS control app on AR headset, iOS app or Web interface to create a
 
 Keyboard mouse and clipboard are functional
 
+Could be run as a webpage 
+
 # RDP
 
 Keyboard mouse and clipboard are functional, resolution is fixed, contrast is changed dynamically according to attention of the user, judged by movement of the mouse.
 
 Mode for monochromous projection 
 
+
+Could be run as a webpage. Tested performance is slow. Resolution - direct UnrealRDP bindings 
 ## screen recording and server storage
 
 ## recognition of the commonly done sequences and suggestion of auto execution
