@@ -10,7 +10,9 @@ Operating system for AR headsets
 
 # Unreal Object Package
 
-# TV App
+# TV
+
+Plays personalized by user topics of interest and attention mix of YouTube clips with skipped ads 
 
 # Record
 
