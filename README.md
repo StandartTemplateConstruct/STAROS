@@ -19,6 +19,12 @@ Keyboard mouse and clipboard are functional, resolution is fixed, contrast is ch
 
 Mode for monochromous projection 
 
+## screen recording and server storage
+
+## recognition of the commonly done sequences and suggestion of auto execution
+
+
+
 # Browser
 
 # Unreal Object Package
