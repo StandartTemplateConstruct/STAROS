@@ -10,10 +10,13 @@ Operating system for AR headsets
 
 # Unreal Object Package
 
-# Standard TV
+# TV App
 
-# Standard Record
+# Record
 
-# Standard Library
-
+Leverages is the recordings of other STAROS devices present
+ 
+ - wearers actions
+ - actions of humanoids in view
+ - 3D scene of surroundings
 
