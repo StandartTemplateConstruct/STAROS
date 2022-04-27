@@ -1,6 +1,10 @@
 # STAROS
 Operating system for AR headsets
 
+# concepts 
+
+User uses STAROS control app on AR headset, iOS app or Web interface to create a windows in AR space and on the devices connected to the system as displays via STAROSFlatDisplayApp
+
 # Clipboard
 
  - cmd x cmd v
