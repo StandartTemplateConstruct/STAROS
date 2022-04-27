@@ -1,2 +1,11 @@
 # STAROS
-Operating system for ar headsets
+Operating system for AR headsets
+
+
+# SSH
+
+# RDP
+
+# Browser
+
+# Unreal Object Package
