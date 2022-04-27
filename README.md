@@ -1,10 +1,19 @@
 # STAROS
 Operating system for AR headsets
 
+# Clipboard
+
+ - cmd x cmd v
 
 # SSH
 
+Keyboard mouse and clipboard are functional
+
 # RDP
+
+Keyboard mouse and clipboard are functional, resolution is fixed, contrast is changed dynamically according to attention of the user, judged by movement of the mouse.
+
+Mode for monochromous projection 
 
 # Browser
 
