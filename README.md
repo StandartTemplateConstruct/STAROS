@@ -49,3 +49,5 @@ Leverages is the recordings of other STAROS devices present
 # Play
 
 Plays the recorded action sequence For the wearer of headset to repeat: it evaluates how wearer follows the instruction and pauses/repeats instruction until completion 
+
+
